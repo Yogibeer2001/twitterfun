@@ -1,0 +1,19 @@
+body, html {
+  margin: 0;
+  padding: 0;
+
+}
+/*layout*/
+
+#top-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 5px dashed blue;
+}
+#top-menu h4 {
+  padding-right: 20px;
+}
+#top-menu img {
+  padding-left: 20px;
+}
